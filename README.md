@@ -4,8 +4,8 @@
 
 ### Game coding scheme
 
-![How it development](./pig-game-flowchart.png)
+![How it development](./assets/pig-game-flowchart.png)
 
-![How it works](./screenshot1.png)
+![How it works](./assets/screenshot1.png)
 
-![How it works](./screenshot2.png)
+![How it works](./assets/screenshot2.png)
